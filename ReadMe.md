@@ -22,8 +22,8 @@ When I'm not coding, you'll probably find me playing video games 🎮, listening
 ## 🌐 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/ismaelcostaneto)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismaelnetodev&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelnetodev&layout=compact&theme=radical)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=seu-usuario)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=ismaelnetodev)
