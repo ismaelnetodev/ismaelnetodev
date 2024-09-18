@@ -1,18 +1,29 @@
-<h1 align="center">Hi 👋, I'm Ismael Neto</h1>
-<h3 align="center">A software engineer student from Brazil.</h3>
+# 👋 Hello! I'm Ismael Neto!
 
-- 🌱 I’m currently learning **Python, Javascript and C# along with some frameworks**
+I'm a backend-focused developer, but I'm open to Full Stack opportunities and, in the future, I'd love to become a game developer 🎮. Right now, I'm most comfortable with Python, and I'm learning JavaScript and Java along the way!
 
-- 📫 How to reach me **ismaelm.neto14@gmail.com**
+## 🚀 What I'm working on?
+- Developing new projects to build up my portfolio.
+- Focused on learning Java and diving into game development (Unity and Unreal Engine are on my list!).
+- Exploring new tech like C#, C++, CI/CD, and Docker 🐳.
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ismaelcostaneto/](https://www.linkedin.com/in/ismaelcostaneto/)
+## 💻 Recent Projects
+- A Flask-based API project (still a work in progress, but a great learning experience!).
+- Experiments with various APIs, including GPT, text-to-speech, and speech-to-text conversion.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ismaelcostaneto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismaelcostaneto" height="30" width="40" /></a>
-</p>
+## 🔧 Technologies I'm working with
+- **Languages:** Python, JavaScript, Java (learning), and exploring C# and C++.
+- **Tools & Frameworks:** Flask, various APIs, Docker (soon).
+- **Future Goals:** Game development with Unity and Unreal Engine.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## 🎮 A little more about me
+When I'm not coding, you'll probably find me playing video games 🎮, listening to music 🎧, or brainstorming new programming ideas 👨‍💻. I'm always open to collaborating on new projects, so feel free to reach out!
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismaelnetodev&show_icons=true&locale=en&layout=compact" alt="ismaelnetodev" /></p>
+## 🌐 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/ismaelcostaneto)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=seu-usuario)
