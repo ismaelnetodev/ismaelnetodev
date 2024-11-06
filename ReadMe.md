@@ -10,6 +10,7 @@ I'm a backend-focused developer, but I'm open to Full Stack opportunities and, i
 ## 💻 Recent Projects
 - A Flask-based API project (still a work in progress, but a great learning experience!).
 - Experiments with various APIs, including GPT, text-to-speech, and speech-to-text conversion.
+- A library management project in Django, Bootstrap and PostgreSQL hosted at AWS.
 
 ## 🔧 Technologies I'm working with
 - **Languages:** Python, JavaScript, Java (learning), and exploring C# and C++.
