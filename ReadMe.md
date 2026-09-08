@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:6366f1&height=220&section=header&text=Ismael%20Neto&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=C%23%20%2F%20.NET%20Developer%20%7C%20Aspiring%20Game%20Developer&descAlignY=55&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:6366f1&height=220&section=header&text=Ismael%20Neto&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=C%23%20%2F%20.NET%20Developer%20%7C%20Game%20Developer%20%28Unity%20%26%20Godot%29&descAlignY=55&descSize=17" width="100%"/>
 
 <a href="https://www.linkedin.com/in/ismaelcostaneto/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=640&lines=Software+Engineering+Student+%40+UNDB;Full+Stack+Developer+%40+Dizevolv;Building+in+C%23+%2F+.NET;President+%40+LADG+-+Game+Dev+League" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=640&lines=Software+Engineering+Student+%40+UNDB;Full+Stack+Developer+%40+Dizevolv;Building+in+C%23+%2F+.NET;President+%40+LADG+%28Game+Dev+League%29" />
 
 </div>
 
@@ -26,14 +26,14 @@
 - 🧩 Actively building in **C# / .NET** (ASP.NET Core, Unity) — my main technical focus right now.
 - 💼 Full Stack Developer @ **Dizevolv**, shipping production SaaS products with Next.js, React, TypeScript and Supabase.
 - 🎓 Software Engineering student @ **UNDB**.
-- 🤝 Founder & President of **LADG** — Liga Acadêmica de Desenvolvimento de Games (game dev student league).
+- 🤝 Founder & President of **LAGD** — Liga Acadêmica de Desenvolvimento de Games (game dev student league).
 
 ---
 
 ## 🏗️ Currently building
 
 <a href="https://github.com/ismaelnetodev/StockitAPI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ismaelnetodev&repo=StockitAPI&theme=dracula&show_owner=true" />
+  <img align="center" src="./profile/pin-stockitapi.svg" />
 </a>
 
 **StockitAPI** — a collaborative household inventory & shopping list API in **ASP.NET Core**. This is my main hands-on project for going deeper into the .NET ecosystem (domain modeling, EF Core, auth). Still early stage — most of my current C#/.NET reps are happening here.
@@ -65,8 +65,8 @@
 ## 📊 GitHub Stats
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ismaelnetodev&theme=dracula&show_icons=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelnetodev&layout=compact&theme=dracula&hide_border=true"/>
+  <img height="180em" src="./profile/stats.svg"/>
+  <img height="180em" src="./profile/top-langs.svg"/>
 </div>
 
 <img src="https://streak-stats.demolab.com/?user=ismaelnetodev&theme=dracula&hide_border=true" />
