@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:6366f1&height=220&section=header&text=Ismael%20Neto&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=C%23%20%2F%20.NET%20Developer%20%7C%20Game%20Developer%20%28Unity%20%26%20Godot%29&descAlignY=55&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:6366f1&height=220&section=header&text=Ismael%20Neto&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=C%23%20%2F%20.NET%20Developer%20%7C%20Game%20Developer%20%28Unity%20and%20Godot%29&descAlignY=55&descSize=17" width="100%"/>
 
 <a href="https://www.linkedin.com/in/ismaelcostaneto/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -22,11 +22,11 @@
 
 ## About me
 
-- 🎮 Aspiring **Game Developer** — working my way into the games industry, one system at a time.
-- 🧩 Actively building in **C# / .NET** (ASP.NET Core, Unity) — my main technical focus right now.
+- 🎮 **Game Developer**, building real projects in Unity and Godot while working my way deeper into the games industry.
+- 🧩 Actively building in **C# / .NET** (ASP.NET Core, Unity), my main technical focus right now.
 - 💼 Full Stack Developer @ **Dizevolv**, shipping production SaaS products with Next.js, React, TypeScript and Supabase.
 - 🎓 Software Engineering student @ **UNDB**.
-- 🤝 Founder & President of **LAGD** — Liga Acadêmica de Desenvolvimento de Games (game dev student league).
+- 🤝 Founder & President of **LADG** (Liga Acadêmica de Desenvolvimento de Games), a game dev student league.
 
 ---
 
@@ -36,7 +36,7 @@
   <img align="center" src="./profile/pin-stockitapi.svg" />
 </a>
 
-**StockitAPI** — a collaborative household inventory & shopping list API in **ASP.NET Core**. This is my main hands-on project for going deeper into the .NET ecosystem (domain modeling, EF Core, auth). Still early stage — most of my current C#/.NET reps are happening here.
+**StockitAPI** is a collaborative household inventory & shopping list API in **ASP.NET Core**. It's my main hands-on project for going deeper into the .NET ecosystem (domain modeling, EF Core, auth). Still early stage: most of my current C#/.NET reps are happening here.
 
 ---
 
