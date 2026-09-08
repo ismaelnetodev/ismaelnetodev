@@ -81,8 +81,6 @@
   <img alt="contribution snake graph" src="https://raw.githubusercontent.com/ismaelnetodev/ismaelnetodev/output/github-contribution-grid-snake.svg" />
 </picture>
 
-> ⚠️ This one needs a one-time setup — see `snake.yml` below. Until the workflow runs once, this image will show as broken.
-
 ---
 
 <div align="center">
